@@ -1,4 +1,5 @@
-### Hi there 👋
+👋 Merhaba Dostum, Github Profilime Hoşgeldin 👋
+✨ Umarım İşine Yarayacak Şeyler Bulabilirsin ✨
 
 <!--
 **yumalieser/yumalieser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
